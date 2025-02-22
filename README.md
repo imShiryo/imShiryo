@@ -1,4 +1,4 @@
- #👋 Hi, @imShiryo
+# 👋 _Hi, @imShiryo_ #
 - 👀 I’m interested in computer science, mechanical engineering, motorsports and mountain biking. 
 - 🌱 I’m currently learning Computer science engineering (Bsc)
 
